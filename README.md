@@ -8,4 +8,9 @@
 - 📫 How to reach me: You can contact me through GitHub or find me on LinkedIn at [].
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact:  I started learning web development by building my own custom browser-based game using pure JavaScript!
--->
+--> 
+--> 
+--> ### Talk with me, I am kinda awesome:
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
