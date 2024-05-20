@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on open-source projects related to web development, especially those focused on building reusable UI components, enhancing performance, or improving accessibility.
 - 🤔 I’m looking for help with understanding advanced design patterns, optimizing database queries, and implementing scalable backend services.
 - 💬 Ask me about React hooks, responsive design techniques, or my experience with various JavaScript frameworks.
-- 📫 How to reach me: You can contact me through GitHub or find me on LinkedIn at [https://www.linkedin.com/in/fatimah-muhammad-sani/].
+- 📫 How to reach me: You can contact me through GitHub or find me on LinkedIn at [linkedin].
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact:  I started learning web development by building my own custom browser-based game using pure JavaScript!
 ### Talk with me, I am kinda enthusiastic:
