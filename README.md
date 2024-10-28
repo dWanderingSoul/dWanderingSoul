@@ -13,7 +13,7 @@
 
 <br />
 
-[![trophy](https://github-profile-trophy.vercel.app/?dWanderingSoul=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+### [![trophy](https://github-profile-trophy.vercel.app/?username=dWanderingSoul&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### Languages and Tools:
