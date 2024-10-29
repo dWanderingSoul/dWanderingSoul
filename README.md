@@ -13,9 +13,6 @@
 
 <br />
 
-### [![trophy](https://github-profile-trophy.vercel.app/?username=dWanderingSoul&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
@@ -43,3 +40,11 @@
 [linkedin]: https://www.linkedin.com/in/fatimah-muhammad-sani/
 [portfolio]: https://dWanderingSoul.github.io/profile/
 [Gmail]: mailto:fatimahsani1026@gmail.com
+
+### https://camo.githubusercontent.com/
+
+### https://camo.githubusercontent.com/52ddd811fce64d23de7f1e84fc967504086e4e26572ee066d272902f747093be/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d73616d616465656e266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174
+
+### [![trophy](https://github-profile-trophy.vercel.app/?username=dWanderingSoul&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+### ![dWanderingSoul's GitHub stats](https://github-readme-stats.vercel.app/api?username=dWanderingSoul&show_icons=true&theme=dark)
