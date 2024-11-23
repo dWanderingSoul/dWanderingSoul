@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sakshit2004.sakshit2004" />
 
 - 🔭 I’m currently working on honing my backend development skills by building a Python-based web application using Django or Flask, with a focus on understanding RESTful APIs and database interactions.
 - 🌱 I’m eager to learn more about Node.js, Express.js and MongoDB to explore different backend technologies and their use cases.
