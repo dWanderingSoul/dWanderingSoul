@@ -23,13 +23,13 @@ I'm a **Python Backend Developer, DevOps Enthusiast and AI/ML Explorer** passion
 `FastAPI` `Django` `Flask` 
 
 **Databases**:  
-`PostgreSQL` `MongoDB` `Supabase` `Prisma ORM` `SQLAlchemy`
+`PostgreSQL` `MongoDB` `Supabase` `Prisma ORM` `SQLAlchemy` `Django ORM`
 
 **DevOps & Infra**:  
-`Docker` `Docker Compose` `Ansible` `GitHub Actions` `Linux` `Nginx` `CI/CD`
+`Docker` `Docker Compose` `Ansible` `GitHub Actions` `Linux` `Nginx` `CI/CD` `AWS`
 
 **AI/ML Stack**:  
-`NumPy` `Pandas` `Scikit-learn` `HuggingFace Transformers` `OpenAI GPT` `TF-IDF`
+`NumPy` `Pandas` `Scikit-learn` `HuggingFace Transformers` 
 
 **Other Tech**:  
 `Swagger / Redoc` `JWT Auth` `OAuth` `Paystack` `Tawk.to` `WordPress (integration)`
