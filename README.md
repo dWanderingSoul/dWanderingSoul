@@ -54,7 +54,7 @@ I'm a **Python Backend Developer, DevOps Enthusiast and AI/ML Explorer** passion
   🔸 Focused on Supabase authentication, logging, and metadata handling
 
 - **AgriMart (Flask + Prisma ORM)**  
-  *KodeCamp Capstone – Agri e-commerce backend*  
+  * Agri e-commerce backend*  
   🔸 Auth + buyer/seller modules, deployed on Fly.io  
 
 - **Expense Tracker API (FastAPI + SQLAlchemy + JWT)**  
