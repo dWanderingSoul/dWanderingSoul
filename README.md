@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Fatimah Muhammad Sani
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sakshit2004.sakshit2004" />
 
-I'm a **Python Backend Developer, DevOps Enthusiast and AI/ML Explorer** passionate about building scalable systems and impactful tech solutions—especially in **education, research, and digital infrastructure**.  
+I'm a **Python Backend Developer, DevOps Practitioner and AI/ML Explorer** passionate about building scalable systems and impactful tech solutions—especially in **education, research, and digital infrastructure**.  
 
 ---
 
