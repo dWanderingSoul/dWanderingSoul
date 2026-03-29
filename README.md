@@ -1,21 +1,43 @@
 ### Hi there 👋 I'm Fatimah Muhammad Sani
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sakshit2004.sakshit2004" />
 
-I'm a **Python Backend Developer, DevOps Practitioner and AI/ML Explorer** passionate about building scalable systems and impactful tech solutions—especially in **education, research, and digital infrastructure**.  
+**⚡ Renewable Energy Developer | ⚙️ DevOps Engineer | 🤖 AI Enthusiast**
+Building intelligent, scalable, and sustainable solutions at the intersection of **energy, infrastructure, and emerging technologies**.
+
+
+## 🌍 About Me
+
+I am a multidisciplinary engineer focused on renewable energy systems, DevOps practices, and AI-driven solutions. My work is centered on designing efficient energy systems, deploying reliable infrastructure, and exploring how AI can optimize real-world operations.
+
+I’m particularly passionate about:
+
+- 🌱 Sustainable energy systems
+- ⚡ Microgrid design & optimization
+- ☁️ Cloud & infrastructure automation
+- 🤖 AI applications in energy and digital systems
 
 ---
 
 ### 🚀 Current Focus Areas
 
-- 🔧 Building scalable backend systems using **FastAPI**, **Django** and **Flask**.
-- 🔍 Working on AI & blockchain integrations for **EdTech** platforms like *Curriq*
-- 🐳 Deploying containerized applications using **Docker**, **Fly.io**, and **GitHub Actions**
-- ☁️ Exploring **DevOps practices** through CI/CD pipelines, Infrastructure as Code, and configuration tools like **Ansible**
+- ☀️ Designing and optimizing energy systems using **HOMER Pro**, **SAM**, **PVsyst**, **Excel**, and **Power BI**
+- ⚙️ Building and deploying infrastructure using **Docker**, **CI/CD pipelines**, and **Linux systems**
+- 🤖 Exploring AI applications in **energy optimization, analytics, and automation**
+- 🌍 Developing solutions tailored for **energy access and efficiency in emerging markets**
+- ☁️ Exploring **DevOps practices** through CI/CD pipelines, Infrastructure as Code, and configuration tools like **Ansible** and **Terraform**
 
 ---
 
 ### 🛠️ What I Work With
 
+#### 🔋 Renewable Energy Tools
+- HOMER Pro
+- SAM
+- PVsyst
+- Microsoft Excel (Advanced Analysis)
+- Power BI (Data Visualization)
+
+#### ⚙️ DevOps & Infrastructure
 **Languages**:  
 `Python`   `Bash`
 
@@ -23,13 +45,10 @@ I'm a **Python Backend Developer, DevOps Practitioner and AI/ML Explorer** passi
 `FastAPI` `Django` `Flask` 
 
 **Databases**:  
-`PostgreSQL` `MongoDB` `Supabase` `Prisma ORM` `SQLAlchemy` `Django ORM`
+`PostgreSQL` `SQLlite` `Django ORM`
 
 **DevOps & Infra**:  
-`Docker` `Docker Compose` `Ansible` `GitHub Actions` `Linux` `Nginx` `CI/CD` `AWS`
-
-**AI/ML Stack**:  
-`NumPy` `Pandas` `Scikit-learn` `HuggingFace Transformers` 
+`Docker/ Docker Compose` `Ansible` `GitHub Actions(CI/CD)` `Linux` `Nginx` `CI/CD` `AWS/ VPS Deployment` `Terraform` 
 
 **Other Tech**:  
 `Swagger / Redoc` `JWT Auth` `OAuth` `Paystack` `Tawk.to` `WordPress (integration)`
@@ -38,36 +57,36 @@ I'm a **Python Backend Developer, DevOps Practitioner and AI/ML Explorer** passi
 
 ### 🌟 Highlight Projects
 
-- **Curriq (EdTech Platform)**  
-  *Role: Blockchain Developer & AI Integrator*  
-  🔹 Designed blockchain certificate architecture using **Polygon**  
-  🔹 Integrated **AI-powered tutor** using WordPress + GPT APIs  
-  🔹 Built gamified point systems using **myCred** plugin  
+- **⚡ Hybrid Energy System Optimization (HOMER Pro)**
+  🔹 Designed and optimized a hybrid solar-diesel-battery system
+  🔹 Performed techno-economic analysis (NPC, LCOE, system sizing) 
+  🔹 Delivered cost-effective and reliable energy configuration  
 
-- **LearnFlex (Django + PostgreSQL)**  
-  *Capstone Project – Deployed Full Stack EdTech Platform*  
-  🔸 Built full authentication, lesson APIs, and admin dashboard  
-  🔸 Deployed on **PythonAnywhere**, frontend on **Vercel**  
+- **☀️ Solar PV System Design (PVsyst)**  
+  🔸 Developed detailed PV system model including shading analysis 
+  🔸 Evaluated system losses, performance ratio, and annual energy yield
+  🔸 Built a realistic digital twin for system validation
 
-- **WanderLog API (Supabase + FastAPI)**  
-  🔸 RESTful travel memory manager app  
-  🔸 Focused on Supabase authentication, logging, and metadata handling
+- **📊 Energy Data Analysis Dashboard (Excel + Power BI)**  
+  🔸 Conducted energy audit and load analysis  
+  🔸 Built interactive dashboards for energy consumption insights
+  🔸 Identified inefficiencies and optimization opportunities
 
-- **AgriMart (Flask + Prisma ORM)**  
-  * Agri e-commerce backend*  
-  🔸 Auth + buyer/seller modules, deployed on Fly.io  
 
-- **Expense Tracker API (FastAPI + SQLAlchemy + JWT)**  
-  🔸 Built with user-based data filtering, CRUD, secure JWT sessions  
-  🔸 Packaged as a GitHub-ready starter template
+- **⚙️ DevOps: Containerized Application Deployment)**  
+  🔸 Dockerized full-stack application
+  🔸 Configured CI/CD pipelines using GitHub Actions
+  🔸 Deployed applications with Nginx and automated workflows
+
 
 ---
+#### 🤝 Let’s Collaborate
 
 I'm always excited to collaborate on:
-- Backend API services (FastAPI, Django, Flask)
-- AI/ML Engineering Projects
-- DevOps tasks (Dockerization, CI/CD pipelines, deployment)
-- Open-source contributions in **education**, **automation**, **security** etc
+- Renewable energy system design & optimization
+- DevOps and infrastructure automation
+- AI-driven solutions for energy and data systems
+- Open-source and impact-driven projects
 
 ### 📬 Reach Me
 
@@ -83,7 +102,6 @@ I'm always excited to collaborate on:
 <p align="left">
   <img alt="VS Code" title="Visual Studio Code" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/>
   <img alt="Python" title="Python" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img alt="Flask" title="Flask" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"/>
   <img alt="Django" title="Django" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"/>
   <img alt="FastAPI" title="FastAPI" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
   <img alt="SQLAlchemy" title="SQLAlchemy" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg"/>
@@ -93,8 +111,6 @@ I'm always excited to collaborate on:
   <img alt="Vagrant" title="Vagrant" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg"/>
   <img alt="Bash" title="Bash" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"/>
   <img alt="Shell Script" title="Shell" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"/>
-  <img alt="Ruby" title="Ruby" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"/>
-  <img alt="Supabase" title="Supabase" width="40" src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png"/>
   <img alt="GitHub" title="GitHub" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
   <img alt="Linux" title="Linux" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
   <img alt="Git" title="Git" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
