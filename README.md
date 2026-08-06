@@ -130,4 +130,4 @@ I'm always excited to collaborate on:
 
 ### ![dWanderingSoul's GitHub stats](https://github-readme-stats.vercel.app/api?username=dWanderingSoul&show_icons=true&theme=dark)
 
-> ✨ *I’m a builder, researcher, and problem-solver passionate about using technology to create lasting impact—especially in communities that need it most.*
+> ✨ *I’m a builder, researcher and passionate about using technology to create lasting impact—especially in communities that need it most.*
