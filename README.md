@@ -1,13 +1,13 @@
 ### Hi there 👋 I'm Fatimah Muhammad Sani
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sakshit2004.sakshit2004" />
 
-**⚡ Renewable Energy Developer | ⚙️ DevOps Engineer | 🤖 AI Enthusiast**
+**⚡ Renewable Energy (Technical Asset Management) | ⚙️ Backend (Python) & DevOps | 🤖 AI Enthusiast**
 Building intelligent, scalable, and sustainable solutions at the intersection of **energy, infrastructure, and emerging technologies**.
 
 
 ## 🌍 About Me
 
-I am a multidisciplinary engineer focused on renewable energy systems, DevOps practices, and AI-driven solutions. My work is centered on designing efficient energy systems, deploying reliable infrastructure, and exploring how AI can optimize real-world operations.
+I am a multidisciplinary engineer focused on renewable energy systems and AI-driven solutions. My work is centered on designing efficient energy systems, deploying reliable infrastructure, and exploring how AI can optimize real-world operations.
 
 I’m particularly passionate about:
 
