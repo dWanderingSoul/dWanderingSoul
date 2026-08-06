@@ -1,7 +1,8 @@
 ### Hi there 👋 I'm Fatimah Muhammad Sani
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sakshit2004.sakshit2004" />
 
-**⚡ Renewable Energy (Technical Asset Management) | ⚙️ Backend (Python) & DevOps | 🤖 AI Enthusiast**
+**⚡ Renewable Energy (Technical Asset Management, Operations & Maintenance and Performance )  | ⚙️ Backend (Python) & DevOps | 🤖 AI Enthusiast**
+
 Building intelligent, scalable, and sustainable solutions at the intersection of **energy, infrastructure, and emerging technologies**.
 
 
